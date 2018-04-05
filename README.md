@@ -1,4 +1,4 @@
-# my-project
+# electron-Calculator
 
 
 # 基于vue，vuex，electron，electron-vue 的简单计算器
