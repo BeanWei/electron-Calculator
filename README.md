@@ -3,6 +3,8 @@
 
 # 基于vue，vuex，electron，electron-vue 的简单计算器
 
+ ![Image text](https://github.com/BeanWei/electron-Calculator/blob/master/Screenshots/demo.PNG)
+ 
 
 > An electron-vue project
 
